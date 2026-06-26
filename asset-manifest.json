@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio---2025/static/css/main.81a90fc4.css",
+    "main.js": "/My-Portfolio---2025/static/js/main.ae64096c.js",
+    "static/media/output-onlinegiftools (2).gif": "/My-Portfolio---2025/static/media/output-onlinegiftools (2).2f347bc5f7a35ddb2e84.gif",
+    "static/media/imp image .jpeg": "/My-Portfolio---2025/static/media/imp image .2b7e62ec69fe90798b46.jpeg",
+    "index.html": "/My-Portfolio---2025/index.html",
+    "main.81a90fc4.css.map": "/My-Portfolio---2025/static/css/main.81a90fc4.css.map",
+    "main.ae64096c.js.map": "/My-Portfolio---2025/static/js/main.ae64096c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a90fc4.css",
+    "static/js/main.ae64096c.js"
+  ]
+}
