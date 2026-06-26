@@ -10,7 +10,7 @@ export const Bio = {
   "I am a passionate Flutter Developer skilled in cross-platform app development using Flutter and Dart. Experienced with Firebase, REST APIs, and also have knowledge in Java development. Focused on building clean, responsive, and efficient mobile apps.",
   github: "https://github.com/Manish-Khatriya",
   resume:
-      "https://drive.google.com/file/d/14Zsqj-5hXQU1ys6V2j_50jUWG0TE7kwc/view?usp=sharing",
+      "https://drive.google.com/file/d/1nZpAWI65_la8udNdYG2LZGxbsH7aLRb-/view?usp=sharing",
   linkedin: "https://linkedin.com/in/manish-khatriya-ab8763249",
   insta: "https://www.instagram.com/gurjar__manish27__/",
   facebook: "https://www.facebook.com/manish.khatriya.3",
@@ -33,38 +33,13 @@ export const skills = [
         image: "https://developer.android.com/studio/images/studio-icon-preview.svg",
       },
       {
-        name: "State Management (Provider)",
+        name: "Provider",
         image: "https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png",
-      },
-      {
-        name: "Firebase",
-        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
       {
         name: "REST APIs",
         image: "https://cdn-icons-png.flaticon.com/512/2807/2807431.png",
       },
-    ],
-  },
-  {
-    title: "Frontend",
-    skills: [
-      {
-        name: "HTML",
-        image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
-      },
-      {
-        name: "CSS",
-        image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg",
-      },
-      {
-        name: "JavaScript",
-        image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
-      },
-      {
-        name: "Canva",
-        image: "https://cdn.iconscout.com/icon/free/png-256/free-canva-3628698-3029931.png",
-      }
     ],
   },
   {
@@ -75,47 +50,79 @@ export const skills = [
         image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
       },
       {
-        name: "MySQL",
-        image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+        name: "OOP Concepts",
+        image: "https://cdn-icons-png.flaticon.com/512/2103/2103633.png",
       },
       {
         name: "SQLite",
         image: "https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg",
       },
+      {
+        name: "Firebase",
+        image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
+      },
     ],
   },
   {
-  title: "Tools & Platforms",
-  skills: [
-    {
-      name: "Git",
-      image: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
-    },
-    {
-      name: "GitHub",
-      image: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
-    },
-    {
-      name: "VS Code",
-      image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
-    },
-    {
-      name: "Eclipse IDE",
-      image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Eclipse-SVG.svg",
-    },
-  ],
-},
-
+    title: "Software & Tools",
+    skills: [
+      {
+        name: "Git",
+        image: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+      },
+      {
+        name: "GitHub",
+        image: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+      },
+      {
+        name: "VS Code",
+        image: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg",
+      },
+      {
+        name: "Android Studio",
+        image: "https://developer.android.com/studio/images/studio-icon-preview.svg",
+      },
+      {
+        name: "Canva",
+        image: "https://cdn.iconscout.com/icon/free/png-256/free-canva-3628698-3029931.png",
+      },
+      {
+        name: "Figma",
+        image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
+      },
+    ],
+  },
+  {
+    title: "AI Tools",
+    skills: [
+      {
+        name: "Cursor IDE",
+        image: "https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png",
+      },
+      {
+        name: "FlutterFlow AI",
+        image: "https://avatars.githubusercontent.com/u/81043818?s=200&v=4",
+      },
+      {
+        name: "Gemini AI",
+        image: "https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg",
+      },
+      {
+        name: "ChatGPT",
+        image: "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+      },
+    ],
+  },
   {
     title: "Professional Skills",
     skills: [
       {
-        name: "UI/UX Design",
-        image: "https://cdn-icons-png.flaticon.com/512/1828/1828884.png",
-      },
-      {
         name: "Design Understanding",
         image: "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+      },
+      {
+        name: "Good Communication",
+        image: "https://cdn-icons-png.flaticon.com/512/3050/3050525.png",
       },
       {
         name: "Problem Solving",
@@ -184,6 +191,26 @@ export const experiences = [
     ],
     doc: "https://i.postimg.cc/768FSgB8/Manish-Khatriya-Website-Design-and-Development-Internship-Internship.png", 
   },
+  {
+  id: 3,
+  img: "https://iili.io/CAGEGg2.jpg",
+  role: "Flutter Developer Internship",
+  company: "Sanjivani Vikas Foundation",
+  date: "Sep 2025 – Jan 2026",
+  desc: "Worked as a Flutter Developer Intern and developed two cross-platform mobile applications using Flutter, Dart, and Firebase. Built 15+ responsive app screens from Figma designs, integrated Firebase Authentication and 5+ REST APIs for secure login and real-time data synchronization, and implemented Provider for efficient state management and scalable app architecture.",
+  skills: [
+    "Flutter",
+    "Dart",
+    "Firebase",
+    "Firebase Authentication",
+    "REST APIs",
+    "Provider",
+    "Figma",
+    "Git",
+    "GitHub",
+  ],
+  doc: "https://iili.io/CAGXfne.jpg",
+  },
 ];
 
 export const education = [
@@ -192,9 +219,9 @@ export const education = [
       image: "https://i.imgur.com/akyuWNu.jpg",
       school: "Institute of Engineering Science, IPS Academy",
       date: "June 2022 - May 2026",
-      grade: "Pursuing",
+      grade: "CGPA: 8.14/10",
       desc: "B.Tech in Computer Science and Engineering. Actively involved in hands-on projects, learning advanced programming concepts like Data Structures, Algorithms, and Machine Learning. Participated in hackathons, coding challenges, and technical seminars. Developed a strong foundation in software development, problem-solving, and teamwork. Currently exploring emerging technologies such as Artificial Intelligence, Web Development, and Data Analytics.",
-      degree: "Bachelor of Technology (B.Tech), Computer Science and Engineering",
+      degree: "Bachelor of Technology (B.Tech) in Computer Science and Information Technology",
   },  
   {
     id: 1,
@@ -203,7 +230,7 @@ export const education = [
     date: "2019 - 2022",
     grade: "77%",
     desc: "High School education with a focus on science and mathematics. Completed Higher Secondary (XII) with Mathematics as a core subject.",
-    degree: "Higher Secondary (XII), Science",
+    degree: "Higher Secondary (XII), PCM",
   },
   {
     id: 2,
@@ -212,81 +239,185 @@ export const education = [
     date: "2017 - 2019",
     grade: "70%",
     desc: "Secondary education with foundational knowledge in science. Completed Secondary (X) with Mathematics as a core subject.",
-    degree: "Secondary (X), Science",
+    degree: "Secondary (X), Mathematics ",
   },
 ];
 
 
 export const projects = [
   {
-    id: 1,
-    title: "My Personal Portfolio",
-    date: "Ongoing",
-    description: 
-      "Designed and developed a personal portfolio website using React.js, JavaScript, HTML, and CSS. The website highlights my skills, past projects, and achievements. I focused on building a responsive design to ensure compatibility across various devices. Implemented smooth navigation and an intuitive layout to provide an engaging user experience. It reflects my web development skills and serves as a platform to showcase my work.",
-    image: "https://i.imgur.com/hC8jFDz.png",
-    tags: [ "React.js", "HTML", "CSS", "JavaScript", "GitHub", "Git" ],
-    category: "web app",
-    github: "#",
-    webapp: "#",
-  },
-  {
     id: 2,
-    title: "ToDo App",
-    date: "Dec 2024",
+    title: "Smart Water Tracker & Reminder App",
+    date: "Nov 2025 - Jan 2026",
     description:
-      "Engineered a task management app using Flutter with CRUD operations and local data storage using SQLite. Applied clean UI, theme switching, and state management with Provider.",
-    image: "https://iili.io/FEqIZ8B.png", // replace with actual ToDo app screenshot if needed
-    tags: ["Flutter", "Dart", "SQLite", "Provider", "CRUD", "Mobile App", "Theme Manage"],
+      "Engineered a Smart Water Tracker & Reminder application using Flutter, Dart, and Firebase, enabling users to set personalized hydration goals, monitor daily water consumption, and receive timely reminders. Implemented real-time database synchronization, responsive UI/UX, and Provider-based state management for a seamless user experience.",
+    image: "https://iili.io/CAWXZTQ.png",
+    tags: [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Realtime Database",
+      "Notifications",
+      "Figma",
+      "Provider",
+    ],
     category: "flutter app",
-    github: "https://github.com/Manish-Khatriya/TODO_app",
-    webapp: "https://drive.google.com/file/d/1nWYad8TAatL5kihrJVXOuEfddPUw5fyL/view?usp=sharing",
+    github: "https://github.com/Manish-Khatriya/Hydrify---Smart-Water-Tracker-Reminder",
+    webapp: "https://github.com/Manish-Khatriya/Hydrify---Smart-Water-Tracker-Reminder",
   },
+
   {
     id: 3,
+    title: "Fashion Shop App",
+    date: "Sep 2025 - Nov 2025",
+    description:
+      "Engineered a Flutter-based Fashion Shop application with Firebase Authentication, Cloud Firestore, and REST API integration, enabling seamless product discovery, secure user login, and real-time data synchronization. Built a responsive and intuitive UI to deliver an engaging mobile shopping experience.",
+    image: "https://iili.io/CAWwf1t.png",
+    tags: [
+      "Flutter",
+      "Dart",
+      "Firebase",
+      "Cloud Firestore",
+      "REST API",
+      "E-commerce",
+      "Provider",
+    ],
+    category: "flutter app",
+    github: "https://github.com/Manish-Khatriya/Trendify---Fashion-Shop-App",
+    webapp: "https://github.com/Manish-Khatriya/Trendify---Fashion-Shop-App",
+  },
+
+  {
+    id: 4,
+    title: "Personal Health Tracker App",
+    date: "May 2025 - Jul 2025",
+    description:
+       "Engineered a Personal Health Tracker app using Flutter and Firebase with features including step tracking, health analytics dashboards, activity visualization, and Google Sign-In authentication. Implemented Provider for state management and built a responsive Material 3 UI for a seamless user experience.",
+    image: "https://iili.io/CAWvq5F.png",
+    tags: [
+      "Flutter",
+      "Firebase",
+      "Google Sign-In",
+      "Health Tracker",
+      "Material 3",
+      "Provider",
+    ],
+    category: "flutter app",
+    github: "https://github.com/Manish-Khatriya/DailyFit",
+    webapp: "https://github.com/Manish-Khatriya/DailyFit",
+  },
+
+  {
+    id: 5,
     title: "Weather App",
     date: "Jan 2025",
     description:
-      "Built a weather forecasting app using Flutter and OpenWeatherMap API. Implemented API calls, state management, and responsive UI for mobile devices.",
-    image: "https://iili.io/FEq3Fvj.png", // replace with actual Weather app screenshot
-    tags: ["Flutter", "Dart", "REST API", "OpenWeatherMap", "Responsive UI", "Mobile App"],
+      "Built a weather forecasting app using Flutter and OpenWeatherMap API with real-time weather updates and a responsive mobile interface.",
+    image: "https://iili.io/FEq3Fvj.png",
+    tags: [
+      "Flutter",
+      "Dart",
+      "REST API",
+      "OpenWeatherMap",
+      "Responsive UI",
+      "Mobile App",
+    ],
     category: "flutter app",
     github: "https://github.com/Manish-Khatriya/Weather_app",
-    webapp: "https://drive.google.com/file/d/1ZVmTSFWoE1EHlfO7XKDzU6BAvOaxbdKN/view?usp=sharing",
+    webapp:
+      "https://drive.google.com/file/d/1ZVmTSFWoE1EHlfO7XKDzU6BAvOaxbdKN/view?usp=sharing",
   },
-  {
-  id: 4,
-  title: "Notes App",
-  date: "Dec 2024",
-  description:
-    "Developed a Notes App using Flutter with local storage through SQLite. Features include note creation, editing, and deletion with a clean UI, light/dark theme support, and state management using Provider.",
-  image: "https://iili.io/FEfS8MX.png", 
-  tags: ["Flutter", "Dart", "SQLite", "Provider", "CRUD", "Mobile App"],
-  category: "flutter app",
-  github: "https://github.com/Manish-Khatriya/Notes_app",
-  webapp: "https://drive.google.com/file/d/19yh5-wJcdqtPVzpdp7KtJ7FYIc7jpyJz/view?usp=sharing",
-  },
-{
-  id: 5,
-  title: "BMI Calculator App",
-  date: "Jan 2025",
-  description:
-    "Created a BMI Calculator App using Flutter for Android. Users can input their height and weight to calculate BMI with real-time results. Clean and interactive UI with proper layout and design standards.",
-  image: "https://iili.io/FEqEbg1.png", // replace with actual BMI app screenshot
-  tags: ["Flutter", "Dart", "UI Design", "BMI Logic", "Mobile App"],
-  category: "flutter app",
-  github: "https://github.com/Manish-Khatriya/BMI_app",
-  webapp: "https://drive.google.com/file/d/1UlzS-G49aVJx6ij0gFfl3aqTRKQRXtqS/view?usp=sharing",
-},
 
   {
     id: 6,
+    title: "BMI Calculator App",
+    date: "Jan 2025",
+    description:
+      "Created a BMI Calculator App using Flutter that calculates body mass index from user inputs with a clean and interactive interface.",
+    image: "https://iili.io/FEqEbg1.png",
+    tags: ["Flutter", "Dart", "UI Design", "BMI Logic", "Mobile App"],
+    category: "flutter app",
+    github: "https://github.com/Manish-Khatriya/BMI_app",
+    webapp:
+      "https://drive.google.com/file/d/1UlzS-G49aVJx6ij0gFfl3aqTRKQRXtqS/view?usp=sharing",
+  },
+
+  {
+    id: 7,
+    title: "ToDo App",
+    date: "Dec 2024",
+    description:
+      "Engineered a task management app using Flutter with CRUD operations, SQLite local storage, theme switching, and Provider state management.",
+    image: "https://iili.io/FEqIZ8B.png",
+    tags: [
+      "Flutter",
+      "Dart",
+      "SQLite",
+      "Provider",
+      "CRUD",
+      "Mobile App",
+      "Theme Manage",
+    ],
+    category: "flutter app",
+    github: "https://github.com/Manish-Khatriya/TODO_app",
+    webapp:
+      "https://drive.google.com/file/d/1nWYad8TAatL5kihrJVXOuEfddPUw5fyL/view?usp=sharing",
+  },
+
+  {
+    id: 8,
+    title: "Notes App",
+    date: "Dec 2024",
+    description:
+      "Developed a Notes App using Flutter and SQLite with note creation, editing, deletion, dark mode support, and Provider-based state management.",
+    image: "https://iili.io/FEfS8MX.png",
+    tags: ["Flutter", "Dart", "SQLite", "Provider", "CRUD", "Mobile App"],
+    category: "flutter app",
+    github: "https://github.com/Manish-Khatriya/Notes_app",
+    webapp:
+      "https://drive.google.com/file/d/19yh5-wJcdqtPVzpdp7KtJ7FYIc7jpyJz/view?usp=sharing",
+  },
+
+  {
+    id: 9,
+    title: "Online Book Store",
+    date: "Jul 2024 - Aug 2024",
+    description:
+      "Built an online book store platform using Java, JSP, Servlets, and MySQL with authentication, search functionality, and order management features.",
+    image: "https://i.imgur.com/bO0Szuh.png",
+    tags: [
+      "Java",
+      "JSP",
+      "Servlets",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Eclipse IDE",
+    ],
+    category: "web app",
+    github: "https://github.com/Manish-Khatriya/Online-Book-Store",
+    webapp: "#",
+  },
+
+  {
+    id: 10,
     title: "Hotel Booking System",
     date: "May 2024 - Jul 2024",
     description:
-      "Developed a hotel booking management system during an internship for efficient online room reservations and administrative tasks. Utilized JSP and Servlets for dynamic functionality and MySQL for secure data management. Features include user authentication, room availability tracking, and booking management, providing a streamlined and user-friendly experience for customers.",
+      "Developed a hotel booking management system using Java, JSP, Servlets, and MySQL with user authentication, room availability tracking, and booking management features.",
     image: "https://i.imgur.com/TZBZhMs.png",
-    tags: ["Java", "JSP", "Servlets", "MySQL", "HTML", "CSS", "JavaScript", "Bootstrap", "Eclipse IDE"],
+    tags: [
+      "Java",
+      "JSP",
+      "Servlets",
+      "MySQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "Eclipse IDE",
+    ],
     category: "web app",
     github: "https://github.com/Manish-Khatriya/Hotel-Booking-System",
     webapp: "#",
@@ -300,7 +431,8 @@ export const projects = [
       {
         name: "Goutam Choudhary",
         img: "https://i.imgur.com/AEPTWDh.jpg",
-        linkedin: "https://www.linkedin.com/in/goutam-choudhary-8a286b250",
+        linkedin:
+          "https://www.linkedin.com/in/goutam-choudhary-8a286b250",
         github: "#",
       },
       {
@@ -311,17 +443,4 @@ export const projects = [
       },
     ],
   },
-  {
-    id: 7,
-    title: "Online Book Store",
-    date: "Jul 2024 - Aug 2024",
-    description:
-      "Built a personal e-commerce platform for browsing and purchasing books online as a practice project to enhance development skills. Integrated features like search functionality, user authentication for secure access, and order tracking for a seamless user experience. Designed to provide a user-friendly interface while ensuring efficient backend operations using robust technologies.",
-    image: "https://i.imgur.com/bO0Szuh.png",
-    tags: ["Java", "JSP", "Servlets", "MySQL", "HTML", "CSS", "JavaScript", "Eclipse IDE"],
-    category: "web app",
-    github: "https://github.com/Manish-Khatriya/Online-Book-Store",
-    webapp: "#",
-  },
-  
 ];
